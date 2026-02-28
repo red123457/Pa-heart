@@ -15,7 +15,7 @@ ano g??
     justify-content: center;
     align-items: center;
     font-family: Tahoma, Arial, sans-serif;
-    background-image: url('https://i1.sndcdn.com/avatars-F35OU0eOpcjHaeiP-jEMs5w-t240x240.jpg');
+    background-image: url('https://i.postimg.cc/FKH4yqMK/IMG-20260110-131423-090.jpg');
     background-size: cover
   }
 
