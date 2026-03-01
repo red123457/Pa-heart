@@ -15,7 +15,7 @@ ano g??
     justify-content: center;
     align-items: center;
     font-family: Tahoma, Arial, sans-serif;
-    background-image: url('https://i.postimg.cc/FKH4yqMK/IMG-20260110-131423-090.jpg');
+    background-image: url('https://cdn.discordapp.com/attachments/1477455964163805447/1477456062868095148/IMG_20260110_131423_090.jpg?ex=69a4d3af&is=69a3822f&hm=6e0d972c85882d1e723482d9df6e84ff550f4caa22a512aa5a17274cc1902f99&');
     background-size: cover
   }
 
